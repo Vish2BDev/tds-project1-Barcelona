@@ -5,9 +5,9 @@ This repository contains data about GitHub users in Barcelona with over 100 foll
 ## Data Collection & Analysis
 
 <ul style="list-style-type: disc;">
-    <li>Data was collected from the GitHub API by scraping users in Barcelona with over 100 followers to fetch their latest repositories using python.</li>
-    <li>JavaScript dominates as the most popular language, while Vim Script surprisingly has the highest average stars per repository and having a longer bio shows a positive correlation with follower count</li>
-    <li>Developers should focus on crafting detailed bios and maintaining active professional profiles and focus on Javascript and Vim Script for local collaborations</li>
+    <li>Data was scraped from the GitHub API for Barcelona users with 100+ followers, retrieving their latest repositories using Python.</li>
+    <li>JavaScript leads in popularity, Vim Script has the highest stars per repo, and longer bios boost follower count.</li>
+    <li>Developers should craft detailed bios, stay active, and prioritize JavaScript and Vim Script for local collaborations.</li>
 </ul>
 
 
