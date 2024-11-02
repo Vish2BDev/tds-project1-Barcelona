@@ -5,7 +5,7 @@ This repository contains data about GitHub users in Barcelona with over 100 foll
 ## Data Collection & Analysis
 
 <ul style="list-style-type: disc;">
-    <li>Data was scraped from the GitHub API for Barcelona users with 100+ followers, retrieving their latest repositories using Python.</li>
+    <li>Data was scraped from the GitHub API for Barcelona users with 100+ followers, retrieving their latest repositories using Python code of scrapedata.py and analysis with analysis_code.ipynb .</li>
     <li>JavaScript leads in popularity, Vim Script has the highest stars per repo, and longer bios boost follower count.</li>
     <li>Developers should craft detailed bios, stay active, and prioritize JavaScript and Vim Script for local collaborations.</li>
 </ul>
